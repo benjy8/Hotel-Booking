@@ -3,7 +3,6 @@ import datetime
 
 '''
 room.py
-Boris Agossou
 
 '''
 # declare constants
