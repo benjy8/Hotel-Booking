@@ -1,1 +1,1 @@
-Functions in module booking work, load_system fails 
+Hotel booking module works.
